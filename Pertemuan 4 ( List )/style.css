@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+}
+
+#ul {
+    display: flex;
+    gap: 30px;
+}
+
+#ol {
+    display: flex;
+    gap: 30px;
+}
+

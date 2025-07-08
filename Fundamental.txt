@@ -1,0 +1,12 @@
+HTML (HyperText Markup Language) adalah fondasi dari setiap halaman web. Memahami konsep-konsep HTML berikut akan sangat berguna saat bekerja di perusahaan atau dalam tim:
+
+Struktur Dokumen: Memahami struktur dasar dokumen HTML (<!DOCTYPE html>, <html>, <head>, <body>) adalah kunci. Ini memastikan browser dapat merender halaman dengan benar.
+Semantic HTML: Menggunakan elemen HTML yang tepat untuk tujuan yang tepat (misalnya, <article>, <nav>, <aside>, <header>, <footer>) meningkatkan aksesibilitas dan SEO. Ini juga membuat kode lebih mudah dibaca dan dipelihara oleh tim.
+Formulir: Membuat formulir yang mudah digunakan dan dapat diakses dengan elemen <form>, <input>, <textarea>, <select>, dan <button> sangat penting untuk interaksi pengguna.
+Tabel: Menampilkan data tabular dengan benar menggunakan elemen <table>, <tr>, <th>, dan <td> penting untuk banyak aplikasi web.
+Media: Menambahkan gambar (<img>), video (<video>), dan audio (<audio>) dengan benar, termasuk penggunaan atribut alt untuk aksesibilitas gambar.
+Aksesibilitas (A11y): Memastikan halaman web dapat digunakan oleh semua orang, termasuk mereka yang memiliki disabilitas. Ini melibatkan penggunaan atribut alt untuk gambar, menyediakan label yang jelas untuk formulir, dan memastikan kontras warna yang memadai.
+SEO (Search Engine Optimization): Memahami bagaimana struktur HTML dan elemen semantik memengaruhi SEO sangat penting untuk meningkatkan visibilitas situs web.
+Standar HTML: Mengikuti standar HTML terbaru memastikan kompatibilitas lintas browser dan perangkat.
+Validasi HTML: Memvalidasi kode HTML Anda dengan alat seperti validator HTML W3C membantu mengidentifikasi dan memperbaiki kesalahan.
+Dengan menguasai konsep-konsep ini, Anda akan menjadi anggota tim yang lebih efektif dan berkontribusi pada pembuatan situs web yang lebih baik.
